@@ -179,7 +179,7 @@ p.flex-item {
     margin-bottom: -6.5%;
 }
 
-#modal-descripton {
+#modal-description {
     color: black;
 }
 
@@ -298,7 +298,7 @@ p.flex-item {
         margin-bottom: 12px; /* Add some space below the input */
     }
 
-    #modal-descripton {
+    #modal-description {
         color: black;
     }
 }
@@ -376,7 +376,7 @@ p.flex-item {
         margin-bottom: 12px; /* Add some space below the input */
       }
 
-    #modal-descripton {
+    #modal-description {
         font-size: 1rem;
     }
 }
