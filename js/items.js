@@ -86,7 +86,7 @@ openModal[i].addEventListener('click', () => {
   // Getting the modal selector
   var modalTitle = modal.querySelector('#modal-title');
   var modalText = modal.querySelector('#modal-text');
-  var modalDesc = modal.querySelector('#modal-descripton');
+  var modalDesc = modal.querySelector('#modal-description');
   // finding model and material
   const modelViewerTexture = modal.querySelector('#viewer');
   const material = modelViewerTexture.model.materials[1];
